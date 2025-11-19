@@ -1,4 +1,4 @@
-# **Matemática en Julia UNED — Un recorrido por lógica, conjuntos y números**
+# **Matemática en Julia UNED — Lógica, conjuntos y números**
 
 Este repositorio reúne una colección de *notebooks* escritos en **Julia**, diseñados para explorar los fundamentos de la matemática —lenguaje lógico, teoría de conjuntos, números y más— desde una perspectiva accesible, práctica y cercana.
 El objetivo es **aprender matemáticas mientras programamos**, demostrando ideas, axiomas y teoremas con código real.
