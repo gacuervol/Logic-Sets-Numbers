@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo_scf.png" alt="Matemática en Julia UNED Logo" width="200"/>
+</p>
+
 # Matemática en Julia UNED: Lógica, Conjuntos y Números
 
 > **Intuition Compiled: Semantics and programming first, axioms and proofs later.**
@@ -49,3 +53,7 @@ El material se organiza en una progresión lógica, comenzando por los bloques d
 ## 📜 Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**. Eres libre de bifurcar este repositorio, romper el código, reescribir los *loops* y descubrir por ti mismo por qué la matemática tiene sentido cuando la obligas a compilar.
+
+## 📚 Referencias
+
+* Delgado Pineda, M., & Muñoz Bouzo, M. J. (2025). *Lenguaje matemático, conjuntos y números* (3.ª ed.). Editorial Sanz y Torres.
