@@ -47,7 +47,7 @@ El material se organiza en una progresión lógica, comenzando por los bloques d
 
 ## 🧰 Stack Tecnológico
 
-* **Language:** Julia (elegido por su cercanía a la sintaxis matemática pura y su alto rendimiento computacional).
+* **Language:** `Julia` (elegido por su cercanía a la sintaxis matemática pura y su alto rendimiento computacional).
 * **Environment:** Jupyter Notebooks interactivos vía `IJulia`.
 
 ## 📜 Licencia
